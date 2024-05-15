@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giseleschaves
-- 👀 I’m interested in coding, product management, technology for good
-- 🌱 I’m currently learning React
+- 👀 I’m interested in coding, test automation, Technology for good
+- 🌱 I’m currently learning React, Playwright
 - 💞️ I’m looking to collaborate on any project where beginners are welcome
 - 📫 How to reach me by email giseleschaves@gmail.com
 
